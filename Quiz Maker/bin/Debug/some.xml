@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Text=".xml">
+  <questions>
+    <QuestionBlock id="2">
+      <Text>Flight crew members on the flight deck shall keep their safety belt fastened</Text>
+      <Answers>
+        <Answer IsCorrect="true" id="0">
+          <Text>from take off to landing</Text>
+        </Answer>
+        <Answer IsCorrect="false" id="1">
+          <Text>only during take off and landing </Text>
+        </Answer>
+        <Answer IsCorrect="false" id="2">
+          <Text>only during take off and landing and whenever necessary by the commander in the interest  of safety</Text>
+        </Answer>
+        <Answer IsCorrect="false" id="3">
+          <Text>while at their station </Text>
+        </Answer>
+      </Answers>
+    </QuestionBlock>
+  </questions>
+</Test>
